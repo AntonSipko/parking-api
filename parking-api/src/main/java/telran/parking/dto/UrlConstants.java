@@ -9,6 +9,7 @@ public interface UrlConstants {
 	String OWNER_ID = "ownerId";
 	String REPORTS_URL="reports";
 	String GET_REPORTS_URL = REPORTS_URL+"/get/";
+	String CAR_NUMBER ="carNumber";
 	
 
 }
